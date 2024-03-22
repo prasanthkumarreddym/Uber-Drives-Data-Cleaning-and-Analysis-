@@ -6,8 +6,6 @@ This project cleans and processes Uber driver data using pandas, a powerful Pyth
 The code addresses common data quality issues such as missing values, inconsistencies.
 The cleaned data is suitable for further analysis, visualization.
 
-Key Functionalities:
-
 Data Loading:
 Reads the Uber drives data from a CSV file using pandas read_csv function.
 
@@ -24,6 +22,7 @@ Provides a clear explanations.
 Exported the cleaned data into a CSV file.
 
 Prerequisites:
+
 Python,
 Pandas library,
 Jupyter NoteBook.
