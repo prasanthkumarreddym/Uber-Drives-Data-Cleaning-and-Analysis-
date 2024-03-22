@@ -24,10 +24,9 @@ Provides a clear explanations.
 Exported the cleaned data into a CSV file.
 
 Prerequisites:
-
-Python
-Pandas library
-Jupyter NoteBook
+Python,
+Pandas library,
+Jupyter NoteBook.
 
 
 
